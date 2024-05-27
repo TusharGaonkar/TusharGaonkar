@@ -10,7 +10,7 @@
   </a>
 </p>
 
-You can reach out to me on: [Email](gaonkar.tushar0001@gmail.com) and [LinkedIn](https://www.linkedin.com/in/TusharGaonkar/)
+You can reach out to me on: [Email](gaonkar.tushar0001@gmail.com) and [LinkedIn](https://www.linkedin.com/in/tushar-gaonkar24/)
 
 ---
 
@@ -19,5 +19,5 @@ You can reach out to me on: [Email](gaonkar.tushar0001@gmail.com) and [LinkedIn]
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TusharGaonkar&theme=omni&hide_border=true" alt="TusharGaonkar's GitHub Streak" />
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGaonkar&theme=omni&show_icons=true&hide_border=true&count_private=true&layout=compact" alt="TusharGaonkar's Top Languages" width="100%" height="200"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGaonkar&layout=compact&theme=omni" alt="TusharGaonkar's Top Languages" width="100%" height="200"/>
 </div>
