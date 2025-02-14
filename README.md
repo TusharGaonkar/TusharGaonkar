@@ -17,7 +17,6 @@ You can reach out to me on: [Email](gaonkar.tushar0001@gmail.com) and [LinkedIn]
 ### Github Stats
 
 <div align="center">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=omni&preferLogin=false&Background=000000">    <img  alt="TusharGaonkar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/TusharGaonkar?cardType=level-alternate&theme=omni&preferLogin=false&Background=000000" />  </a>
-  
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=omni&preferLogin=false&Background=000000">    <img  alt="TusharGaonkar's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/TusharGaonkar?cardType=level-alternate&theme=omni&preferLogin=false&Background=000000" />  </a>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGaonkar&layout=compact&theme=omni" alt="TusharGaonkar's Top Languages" width="100%" height="200"/>
 </div>
